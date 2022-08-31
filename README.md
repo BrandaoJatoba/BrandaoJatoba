@@ -1,10 +1,10 @@
 ## Hi There!
 
-👋 Hi, I’m João Felipe Brandão Jatobá, or @BrandaoJatoba for short
-👀 I’m a CS Student and I'm interested in learning how to code.
-🌱 I’m currently learning Python and Java. I already know the basics of HTML\CSS
-💞️ I’m looking to collaborate on simple projects that help me learn more.
-📫 DM me if you want to chat or something...
+<p>👋 Hi, I’m João Felipe Brandão Jatobá, or @BrandaoJatoba for short</p>
+<p>👀 I’m a CS Student and I'm interested in learning how to code.</p>
+<p>🌱 I’m currently learning Python and Java. I already know the basics of HTML\CSS</p>
+<p>💞️ I’m looking to collaborate on simple projects that help me learn more.</p>
+<p>📫 DM me if you want to chat or something...</p>
 
 <div align="center">
   <a href="https://github.com/BrandaoJatoba">
