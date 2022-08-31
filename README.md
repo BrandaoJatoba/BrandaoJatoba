@@ -1,11 +1,3 @@
-## Hi There!
-
-<p>👋 Hi, I’m João Felipe Brandão Jatobá, or @BrandaoJatoba for short</p>
-<p>👀 I’m a CS Student and I'm interested in learning how to code.</p>
-<p>🌱 I’m currently learning Python and Java. I already know the basics of HTML\CSS</p>
-<p>💞️ I’m looking to collaborate on simple projects that help me learn more.</p>
-<p>📫 DM me if you want to chat or something...</p>
-
 <div align="center">
   <a href="https://github.com/BrandaoJatoba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrandaoJatoba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,6 +12,14 @@
   <!--- <img align="center" alt="John-LUA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"> --->
 </div>
 
+## Hi There!
+
+<p>👋 Hi, I’m João Felipe Brandão Jatobá, or @BrandaoJatoba for short</p>
+<p>👀 I’m a CS Student and I'm interested in learning how to code.</p>
+<p>🌱 I’m currently learning Python and Java. I already know the basics of HTML\CSS</p>
+<p>💞️ I’m looking to collaborate on simple projects that help me learn more.</p>
+<p>📫 DM me if you want to chat or something...</p>
+  
 <!---
 BrandaoJatoba/BrandaoJatoba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
