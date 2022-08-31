@@ -1,10 +1,10 @@
 ## Hi There!
 
-- 👋 Hi, I’m João Felipe Brandão Jatobá, or @BrandaoJatoba for short
-- 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on simple projects that help me learn more.
-- 📫 DM me if you will.
+👋 Hi, I’m João Felipe Brandão Jatobá, or @BrandaoJatoba for short
+👀 I’m a CS Student and I'm interested in learning how to code.
+🌱 I’m currently learning Python and Java. I already know the basics of HTML\CSS
+💞️ I’m looking to collaborate on simple projects that help me learn more.
+📫 DM me if you want to chat or something...
 
 <div align="center">
   <a href="https://github.com/BrandaoJatoba">
@@ -17,7 +17,7 @@
   <img align="center" alt="John-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="John-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="John-LUA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+  <!--- <img align="center" alt="John-LUA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"> --->
 </div>
 
 <!---
