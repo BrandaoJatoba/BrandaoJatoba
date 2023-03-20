@@ -5,9 +5,8 @@
 <p>🌱 I’m currently learning Python and Java. I already know the basics of HTML\CSS</p>
 <p>💞️ I’m looking to collaborate on simple projects that help me learn more.</p>
 <p>📫 DM me if you want to chat or something...</p>
-<br />
 <a href="https://www.youtube.com/channel/UCAoTOrXoBMTM5Kq2Us20S6w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
+<br />
 <br />
 <div align="Center">
   <a href="https://github.com/BrandaoJatoba">
