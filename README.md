@@ -26,3 +26,10 @@
 BrandaoJatoba/BrandaoJatoba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h3>Minhas Insígneas</h3>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3a0e58f1-e97b-4b11-a733-e234e91894ac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a946260a-3c23-4c21-af01-47df6757e753" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5d2302ce-68cb-4494-ba54-d4719549932b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8530684a-f256-4866-a03b-cf5cc0aed194" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
